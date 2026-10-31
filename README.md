@@ -37,14 +37,3 @@ pipe me
 
 - Invalid input prints `error: ...` and exits with code 1.
 - No flags prints the built-in usage help and exits with code 2.
-
-
-
-
-
-
-
-
-
-
-
